@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['game_3',['Game',['../classGame.html',1,'Game'],['../classGame.html#a8a18a767847276835359b28741bb211a',1,'Game::Game()']]],
+  ['gamestatus_4',['GameStatus',['../classGame.html#ad7fdf24774752f47b6a14827e8bbc073',1,'Game']]],
+  ['get_5fh_5',['get_h',['../classRectangle.html#a27d5e76892569df998a7c8363bf8926b',1,'Rectangle']]],
+  ['get_5fvx_6',['get_vx',['../classRectangle.html#aa94e41df568bf5f06d5f7a56348c45be',1,'Rectangle']]],
+  ['get_5fvy_7',['get_vy',['../classRectangle.html#aa01dd531aca91fae2361791625956ccc',1,'Rectangle']]],
+  ['get_5fw_8',['get_w',['../classRectangle.html#ae92e4287e4a2010f4f6ea25ef6d87008',1,'Rectangle']]],
+  ['get_5fx_9',['get_x',['../classRectangle.html#aa6b7d1f3d3f79e184760df4d34d384d0',1,'Rectangle']]],
+  ['get_5fy_10',['get_y',['../classRectangle.html#ade03e2d4959bb32bf4018abdff8d111d',1,'Rectangle']]],
+  ['getballcoords_11',['getBallCoords',['../classGame.html#abd055dfde6f9a4d157f54ede7ba80803',1,'Game']]],
+  ['getbrickcoords_12',['getBrickCoords',['../classGame.html#a685e401eb03ae024e09b6ebdb602a3ef',1,'Game']]],
+  ['getevent_13',['getEvent',['../classGame.html#a5ce63efccd8192338744097176c96043',1,'Game']]],
+  ['getgamestats_14',['getGameStats',['../classGame.html#a4e2e6977d9204407077c175c9c240890',1,'Game']]],
+  ['getinstance_15',['getInstance',['../classResourceManager.html#a37d0e97686c031cef9b22725ba4a6005',1,'ResourceManager']]],
+  ['getlives_16',['getLives',['../classGame.html#af7962212d039de623b8eebc538ff7140',1,'Game']]],
+  ['getmessage_17',['getMessage',['../classGame.html#a7b81ecb90931a1dae53970e2f51dc456',1,'Game']]],
+  ['getmixchunk_18',['getMixChunk',['../classResourceManager.html#a2f2ce754f9bb38b98e06730524a17d31',1,'ResourceManager']]],
+  ['getmixmusic_19',['getMixMusic',['../classResourceManager.html#aeae31343fdd1cbc77ad9f3e5f11f9860',1,'ResourceManager']]],
+  ['getpaddlecoords_20',['getPaddleCoords',['../classGame.html#a510f701fbc0473eb12bf50d526eda3d4',1,'Game']]],
+  ['getscore_21',['getScore',['../classGame.html#adff34c2ddf03af26dcddad0a942bbcf7',1,'Game']]],
+  ['getsdltexture_22',['getSDLTexture',['../classResourceManager.html#adf39e0d29247ddd0f5e7dc0d6abf6a1f',1,'ResourceManager']]],
+  ['getstatus_23',['getStatus',['../classGame.html#a4f9c62051458d013be13ac7a4fbdc6b6',1,'Game']]],
+  ['getstring_24',['getString',['../classResourceManager.html#af0bd28c6cdadcebee2225752f0d6af22',1,'ResourceManager']]],
+  ['getticks_25',['getTicks',['../classTimer.html#a31069f8a9597ff7cea5899b30d2e7f7a',1,'Timer']]]
+];
